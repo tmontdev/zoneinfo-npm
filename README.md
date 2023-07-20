@@ -1,6 +1,6 @@
 # zoneinfo-npm
 This package provides updated IANA zoneinfo files for timezone handling.
-Some systems do not have all timezones installed, nor updated,  while some systems do not use it by default (like Windows, embeded systems, etc).
+Some systems do not have all timezones installed, nor updated, while some systems do not use it by default (like Windows, embeded systems, etc).
 
 ## Installation
 Please consider install this package globally, otherwise your project may get supersized with data about every timezone history of all over the world.
