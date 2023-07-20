@@ -1,6 +1,6 @@
 {
   "name": "zoneinfo-npm",
-  "version": "1.0.0",
+  "version": "23.2.0",
   "description": "timezone files, always up to date",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
